@@ -1,2 +1,4 @@
 # hello-world
-first repro
+
+
+This is my first repository, just getting familar with using git.
